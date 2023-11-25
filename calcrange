@@ -45,3 +45,5 @@ def up2(a):
     print(x)
     return x
 
+x = ceil(a * ((10 ** (-(jarisu-sig+1))) / c)) / ((10 ** (-(jarisu-sig+1))) / c)
+
